@@ -1,0 +1,1 @@
+// devaluation.ts - contenido base

@@ -1,0 +1,1 @@
+// scrape.ts - contenido base
