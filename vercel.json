@@ -1,1 +1,9 @@
-// vercel.json - contenido base
+
+{
+  "builds": [
+    {
+      "src": "next.config.js",
+      "use": "@vercel/next"
+    }
+  ]
+}
